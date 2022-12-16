@@ -39,6 +39,12 @@ KDT선배(시니어)들의 선물 : 시선(SISEON)
 
 &nbsp;
 
+# 피그마
+![Large GIF (1196x586)](https://user-images.githubusercontent.com/67423191/208004062-c32cece8-c551-448a-b39a-df7bb2698c8e.gif)
+
+
+&nbsp;
+
 # 모델 구조, ERD 작성
 ![최종 ERD](./screen/model.png)
 
